@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542855802 source:d:\data\source code\c\typing_speed_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	"timer.h"
+
+1336508832 source:d:\data\source code\c\typing_speed_calculator\timer.c
+	"timer.h"
+
+1336508842 d:\data\source code\c\typing_speed_calculator\timer.h
+	<stdio.h>
+	<sys/time.h>
+	<signal.h>
+	<windows.h>
+
